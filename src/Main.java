@@ -25,6 +25,7 @@ public class Main {
         PhoneBook phoneBook = new PhoneBook();
 
         phoneBook.add("Кузнецов", "+79000000001");
+        phoneBook.add("Кузнецов", "+79000000001");
         phoneBook.add("Иванов", "+79000000002");
         phoneBook.add("Иванов", "+79000000003");
         phoneBook.add("Кузнецов", "+79000000004");
